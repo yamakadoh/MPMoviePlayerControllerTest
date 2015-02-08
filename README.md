@@ -1,0 +1,2 @@
+# MPMoviePlayerControllerTest
+MPMoviePlayerControllerのテスト
